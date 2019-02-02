@@ -1,0 +1,37 @@
+@media screen and (min-width: 600px) {
+  #zen-preamble h3 {
+    margin-bottom: 2%;
+  
+}
+   header[role=banner] {
+    height: 130px;
+    
+}
+    header h1 {
+        font-size: 50px;
+      
+    }
+    
+    header h2 {
+        margin-top: 30px;
+    
+        font-size: 15px;
+    }
+    
+}
+
+.preamble, .summary {
+   
+    margin: 0 2%
+}
+
+.summary {
+	line-height: 1.5em;
+	margin: 20px 0;
+
+	}
+
+#design-selection {
+  
+    margin-left: 10%;
+}
